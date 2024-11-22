@@ -2,7 +2,7 @@
 - 👀 I’m interested in ..web and app development .
 - 🌱 I’m currently learning ...Javascript 
 - 💞️ I’m looking to collaborate on ...Telegram Bot and coding 
-- 📫 How to reach me ...+233555605544 
+- 📫 How to reach me ...
 #@bshanhoops on telegram 
 
 <!---
